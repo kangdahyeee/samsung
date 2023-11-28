@@ -6,9 +6,7 @@
     padding: 0;
 }
 
-body {
-    background: #666
-}
+body { background:url("../images/bg.svg")repeat-x } 
 
 ul,
 li {
